@@ -1,0 +1,11 @@
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.AssemblyInfo.cs
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.deps.json
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.runtimeconfig.json
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.runtimeconfig.dev.json
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.dll
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\bin\Debug\netcoreapp2.1\DocumentMerger.pdb
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.dll
+C:\Users\Samuel\Documents\Software Projects\Infotc 2040\DocumentMerger\obj\Debug\netcoreapp2.1\DocumentMerger.pdb
