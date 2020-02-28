@@ -1,2 +1,2 @@
 # Document-Merging
-The following program takes two text files in the working directory and combines them under the name of both files combined. 
+The following program takes two text files in the working directory and writes a new files containing the combined contents. 
